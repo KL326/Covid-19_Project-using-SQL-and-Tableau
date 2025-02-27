@@ -53,9 +53,10 @@ This project analyses COVID-19 data from the `CovidDeaths` and `CovidVaccination
 ## 📈 Tableau Dashboard
 
 This project includes an interactive **Tableau dashboard** that visualises:
-- **Infection trends over time** 📉
-- **Mortality rates per country and continent** ⚰️
-- **Vaccination rollout progress** 💉
+- **Global Covid-19 cases and deaths** 🌍  
+- **Total deaths by continent** 📊  
+- **Infection rates by country** 🗺️  
+- **Trends in percentage of population infected over time** 📉 
 
 📌[Covid-19 Dashboard](https://public.tableau.com/app/profile/kristian.lama/viz/Book1_17339443191480/Dashboard1)
 
@@ -64,9 +65,9 @@ This project includes an interactive **Tableau dashboard** that visualises:
 
 ## 🌟 Key Insights
 
-1. **Mortality Rate**: The likelihood of death varies significantly by country.
-2. **Infection Trends**: Certain countries experienced rapid spikes in infection rates.
-3. **Vaccination Impact**: A clear correlation between increased vaccinations and declining case counts.
+1. **Mortality Rate**: Europe has the highest total deaths.  
+2. **Infection Trends**: Cyprus shows the highest infection percentage.  
+3. **Global Impact**: Infection rates vary widely across countries and continents.  
 
 ---
 

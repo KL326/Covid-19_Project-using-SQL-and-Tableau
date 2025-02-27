@@ -1,19 +1,19 @@
 # 🦠 COVID-19 Data Analysis
 
-Welcome to the **COVID-19 Data Analysis Project**! This project explores COVID-19 trends using SQL for data analysis and Tableau for visualization. 📊📌
+Welcome to the **COVID-19 Data Analysis Project**! This project explores COVID-19 trends using SQL for data analysis and Tableau for visualisation. 📊📌
 
 ---
 
 ## 🚀 Project Overview
 
-This project analyzes COVID-19 data from the `CovidDeaths` and `CovidVaccinations` tables within the `PortfolioProject` schema. The goal is to extract insights related to infection rates, mortality rates, and vaccination progress across different locations and time periods.
+This project analyses COVID-19 data from the `CovidDeaths` and `CovidVaccinations` tables within the `PortfolioProject` schema. The goal is to extract insights related to infection rates, mortality rates, and vaccination progress across different locations and time periods.
 
 ---
 
 ## 🔧 Tools and Technologies
 
 - **SQL**: Data extraction, transformation, and analysis.
-- **Tableau**: Interactive visualizations for insights.
+- **Tableau**: Interactive visualisations for insights.
 - **Microsoft SQL Server**: Database used for running queries.
 
 ---
@@ -52,7 +52,7 @@ This project analyzes COVID-19 data from the `CovidDeaths` and `CovidVaccination
 
 ## 📈 Tableau Dashboard
 
-This project includes an interactive **Tableau dashboard** that visualizes:
+This project includes an interactive **Tableau dashboard** that visualises:
 - **Infection trends over time** 📉
 - **Mortality rates per country and continent** ⚰️
 - **Vaccination rollout progress** 💉
@@ -77,6 +77,6 @@ This project includes an interactive **Tableau dashboard** that visualizes:
    git clone https://github.com/your-username/covid19-analysis.git
    ```
 2. Run the SQL scripts in **Microsoft SQL Server** or any compatible SQL environment.
-3. Load the processed data into **Tableau** for visualization.
+3. Load the processed data into **Tableau** for visualisation.
 
 ---
